@@ -1,0 +1,1 @@
+<resources><style name="Theme.MeslKhane" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#F6BD42</item><item name="android:statusBarColor">#062B38</item><item name="android:navigationBarColor">#062B38</item></style></resources>

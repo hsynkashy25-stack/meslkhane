@@ -1,0 +1,11 @@
+{
+  "name": "مثل‌خانه",
+  "short_name": "مثل‌خانه",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#062b38",
+  "theme_color": "#062b38",
+  "description": "گنجینه ضرب‌المثل‌های فارسی"
+}
